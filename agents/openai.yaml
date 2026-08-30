@@ -1,0 +1,4 @@
+interface:
+  display_name: "电影感克制叙事"
+  short_description: "把真实事件材料润色为克制、电影感、物件驱动的中文叙事"
+  default_prompt: "Use $cinematic-confessional-writing to rewrite my event notes into restrained cinematic Chinese prose without inventing facts."
